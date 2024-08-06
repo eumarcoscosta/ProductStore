@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/bin/Debug/net7.0/ProductStore
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/bin/Debug/net7.0/ProductStore.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/bin/Debug/net7.0/ProductStore.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/bin/Debug/net7.0/ProductStore.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/bin/Debug/net7.0/ProductStore.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/ProductStore.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/ProductStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/ProductStore.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/ProductStore.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/ProductStore.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/ProductStore.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/refint/ProductStore.dll
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/ProductStore.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/ProductStore.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/Curso - dev orientada a ovjetos/Exercicios-OBJ/ProductStore/ProductStore/ProductStore/obj/Debug/net7.0/ref/ProductStore.dll
